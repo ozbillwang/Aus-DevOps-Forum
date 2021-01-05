@@ -1,5 +1,3 @@
-# Demo notes
+# DevOps forum
 
-### demo list
-
-* [velero](velero) - Kubernetes backup&restore solution
+* [velero](velero-20201229) - Kubernetes backup&restore solution
